@@ -13,7 +13,8 @@ def p(text: str) -> None:
         .replace('[+]', f'[{Fore.LIGHTGREEN_EX}+{Fore.LIGHTWHITE_EX}]')
         .replace('[*]', f'[{Fore.LIGHTYELLOW_EX}*{Fore.LIGHTWHITE_EX}]')
         .replace('[>]', f'[{Fore.CYAN}>{Fore.LIGHTWHITE_EX}]')
-        .replace('[-]', f'[{Fore.RED}-{Fore.LIGHTWHITE_EX}]'))
+        .replace('[-]', f'[{Fore.RED}-{Fore.LIGHTWHITE_EX}]')
+    )
 
 class Scrape:
     def __init__(self, token: str, id: str) -> None:
