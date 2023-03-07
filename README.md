@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/sfx2me/discord-server-cloner?style=flat-square"> </a>
-  <img src="https://img.shields.io/github/last-commit/sfx2me/discord-server-cloner?style=flat-square"> </a>
-  <img src="https://img.shields.io/github/stars/sfx2me/discord-server-cloner?color=7F9DE0&label=Stars&style=flat-square"> </a>
-  <img src="https://img.shields.io/github/forks/sfx2me/discord-server-cloner?color=7F9DE0&label=Forks&style=flat-square"> </a>
+  <img src="https://img.shields.io/github/languages/top/sfx2me/discord-server-cloner?style=flat-square">
+  <img src="https://img.shields.io/github/last-commit/sfx2me/discord-server-cloner?style=flat-square">
+  <img src="https://img.shields.io/github/stars/sfx2me/discord-server-cloner?color=7F9DE0&label=Stars&style=flat-square">
+  <img src="https://img.shields.io/github/forks/sfx2me/discord-server-cloner?color=7F9DE0&label=Forks&style=flat-square">
 </p>
 
 <h4 align="center">
@@ -32,9 +32,7 @@
 ```
 ---
 
-
-https://cdn.discordapp.com/attachments/1004679809365975100/1082734735043866784/Screenshot_2023-03-07_194056.png
-
+<img src="https://cdn.discordapp.com/attachments/1004679809365975100/1082734735043866784/Screenshot_2023-03-07_194056.png">
 
 ---
 
