@@ -225,7 +225,7 @@ class Create:
             self.create_channels,
             self.create_roles,
             self.create_emojis,
-        ]
+        ] # phish will hate
         for task in tasks:
             try: task()
             except Exception as e:
