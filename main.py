@@ -8,7 +8,12 @@ from json       import loads
 init(autoreset=True)
 
 def p(text: str) -> None:
-    print(f"{Fore.LIGHTWHITE_EX}[{Fore.CYAN}{strftime('%H:%M:%S')}{Fore.LIGHTWHITE_EX}] {text}".replace('[+]', f'[{Fore.LIGHTGREEN_EX}+{Fore.LIGHTWHITE_EX}]').replace('[*]', f'[{Fore.LIGHTYELLOW_EX}*{Fore.LIGHTWHITE_EX}]').replace('[>]', f'[{Fore.CYAN}>{Fore.LIGHTWHITE_EX}]').replace('[-]', f'[{Fore.RED}-{Fore.LIGHTWHITE_EX}]'))
+    print(
+        f"{Fore.LIGHTWHITE_EX}[{Fore.CYAN}{strftime('%H:%M:%S')}{Fore.LIGHTWHITE_EX}] {text}"
+        .replace('[+]', f'[{Fore.LIGHTGREEN_EX}+{Fore.LIGHTWHITE_EX}]')
+        .replace('[*]', f'[{Fore.LIGHTYELLOW_EX}*{Fore.LIGHTWHITE_EX}]')
+        .replace('[>]', f'[{Fore.CYAN}>{Fore.LIGHTWHITE_EX}]')
+        .replace('[-]', f'[{Fore.RED}-{Fore.LIGHTWHITE_EX}]'))
 
 class Scrape:
     def __init__(self, token: str, id: str) -> None:

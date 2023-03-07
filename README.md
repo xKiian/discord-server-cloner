@@ -73,6 +73,6 @@ v1 ⋮ 2023-03-07
 ```
 
 <p align="center">
-  README inspired from Rdimo (rip)
+  README inspired from Rdimo
 </p>
  
